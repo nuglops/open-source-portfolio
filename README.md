@@ -50,8 +50,6 @@ This portfolio showcases some of my contributions, values, and alignment with op
 
 ## 🌍 Contact & Collaboration
 
-I'm currently applying for the **Tech Lead role on the Wikidata Platform team** at the **Wikimedia Foundation**. My goal is to contribute meaningfully to the infrastructure powering structured open data and global knowledge access.
-
 - 📧 [silverj@gmail.com](mailto:silverj@gmail.com)
 - 🌐 [linkedin.com/in/jeffsilver](https://www.linkedin.com/in/jeffsilver)
 
